@@ -1,0 +1,16 @@
+body {
+  background-color: lightgray;
+}
+
+.node {
+  fill: #28c;
+  stroke: #fff;
+  stroke-width: 2px;
+}
+
+/*add css for links*/
+
+.link {
+  stroke: #000;
+  stroke-width: 2px;
+}
