@@ -6,7 +6,8 @@
   <title>Media Outlet Relationship Map</title>
 </head>
 
-<style media="screen">
+<style>
+
   .node {
     fill: #ccc;
     stroke: #fff;
@@ -16,31 +17,52 @@
   /*add css for links*/
 
   .link {
-    stroke: #777;
+    stroke: #000;
     stroke-width: 2px;
   }
+
 </style>
 
 <body>
   <script src="//d3js.org/d3.v3.min.js"></script>
   <script>
     // set a width and height for our SVG
-    var width = 800,
-      height = 600;
+    var width = 600,
+      height = 400;
 
     // setup links
     var links = [{
         source: 'Wall Street Journal',
-        target: 'Lannister'
+        target: 'Bob Roberts'
       },
       {
         source: 'Wall Street Journal',
-        target: 'Stark'
+        target: 'Joan Maker'
       },
       {
         source: 'Wall Street Journal',
-        target: 'Snipe'
+        target: 'Jack Reader'
       },
+      {
+        source: 'Bob Roberts',
+        target: 'Jane Pro'
+      },
+      {
+        source: 'Joan Maker',
+        target: 'John Tans'
+      },
+      {
+        source: 'Joan Maker',
+        target: 'Fred Smith'
+      },
+      {
+        source: 'Jack Reader',
+        target: 'Betty Topps'
+      },
+      {
+        source: 'Jack Reader',
+        target: 'Steve Way'
+      }
     ];
 
     // create empty nodes array
@@ -70,7 +92,7 @@
       .nodes(d3.values(nodes))
       .links(links)
       .on("tick", tick)
-      .linkDistance(300)
+      .linkDistance(180)
       .start();
 
     // add links
@@ -84,7 +106,7 @@
       .data(force.nodes())
       .enter().append('circle')
       .attr('class', 'node')
-      .attr('r', width * 0.03);
+      .attr('r', width * 0.04);
 
 
 
