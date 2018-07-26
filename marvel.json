@@ -8,6 +8,7 @@
    "children": [
     {
       "hero": "Jane Pro",
+      "name": "Director of PR",
       "img":  "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37769210_10156530105172236_8768332848982654976_n.jpg?_nc_cat=0&oh=3ef76de4bbd87adc33a6140a180656d3&oe=5BCA050D",
       "size": 40000
     }
@@ -18,22 +19,13 @@
    "img": "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37789539_10156530104882236_802487022617886720_n.jpg?_nc_cat=0&oh=12a2120db93d7f9e4deb06803a4ee0e7&oe=5C09AAB2",
    "children": [
     {
-      "hero": "Dr. Doom",
-      "name": "Victor von Doom",
-      "link": "http://marvel.com/characters/13/dr_doom",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/drdoom.png",
+      "hero": "John Tans",
+      "img":  "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37797083_10156530105132236_122675733536440320_n.jpg?_nc_cat=0&oh=e2e1642685f5d4efd59df4f5f2a8846f&oe=5BDB7D3F",
       "size": 40000
     },
     {
-      "hero": "Jane Pro",
-      "img":  "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37769210_10156530105172236_8768332848982654976_n.jpg?_nc_cat=0&oh=3ef76de4bbd87adc33a6140a180656d3&oe=5BCA050D",
-      "size": 40000
-    },
-    {
-      "hero": "Mystique",
-      "name": "Unrevealed",
-      "link": "http://marvel.com/characters/1552/mystique",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/mystique.png",
+      "hero": "Fred Smith",
+      "img":  "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37772663_10156530105147236_6593169983595872256_n.jpg?_nc_cat=0&oh=be7944a620afd09c072dea8341c8d12c&oe=5BDDD21F",
       "size": 40000
     }
    ]
@@ -43,22 +35,13 @@
    "img": "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37811345_10156530104927236_710407463572078592_n.jpg?_nc_cat=0&oh=47a79aa49a7affdfb5926532dc6956eb&oe=5BDE54F8",
    "children": [
     {
-      "hero": "Avengers",
-      "name": "",
-      "link": "http://marvel.com/characters/68/avengers",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/avengers.png",
+      "hero": "Betty Topps",
+      "img":  "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37770204_10156530105182236_8820570229806465024_n.jpg?_nc_cat=0&oh=aec0bd166da71abbde76345269275dea&oe=5BCBDC60",
       "size": 40000
     },
     {
-      "hero": "Jane Pro",
-      "img":  "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37769210_10156530105172236_8768332848982654976_n.jpg?_nc_cat=0&oh=3ef76de4bbd87adc33a6140a180656d3&oe=5BCA050D",
-      "size": 40000
-    },
-    {
-      "hero": "Guardians of the Galaxy",
-      "name": "",
-      "link": "http://marvel.com/characters/70/guardians_of_the_galaxy",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/gofgalaxy.png",
+      "hero": "Steve Way",
+      "img":  "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37779123_10156530105292236_4848323538022563840_n.jpg?_nc_cat=0&oh=45bab31414f6006c24e94d5f2424ca8c&oe=5C0B3574",
       "size": 40000
     }
    ]
