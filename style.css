@@ -1,16 +1,54 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:400,600);
 body {
-  background-color: lightgray;
+  font-family: "Source Code Pro", Consolas, monaco, monospace;
+  line-height: 160%;
+  font-size: 16px;
+  margin: 0;
 }
 
-.node {
-  fill: #28c;
-  stroke: #fff;
-  stroke-width: 2px;
+path.link {
+  fill: none;
+  stroke-width: 3px;
 }
 
-/*add css for links*/
+.node:not(:hover) .nodetext {
+  display: none;
+}
 
-.link {
-  stroke: #000;
-  stroke-width: 2px;
+h1 {
+  font-size: 40px;
+  margin: 10px 0;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+h2, h3 {
+  font-size: 18px;
+  margin: 5px 0;
+  font-weight: normal;
+}
+
+header {
+  padding: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+a:link {
+  color: #EE3124;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #EE3124;
+}
+
+a:hover {
+  color: #A4CD39;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #EE3124;
 }
