@@ -8,7 +8,6 @@
   <link rel="stylesheet" href="style.css">
 </head>
 
-
 <body>
     <header>
       <h1>Media Outlets</h1>
@@ -25,9 +24,9 @@
   var tcBlack = "#130C0E";
 
 // rest of vars
-var w = 960,
+var w = 1000,
     h = 800,
-    maxNodeSize = 50,
+    maxNodeSize = 80,
     x_browser = 20,
     y_browser = 25,
     root;
@@ -37,7 +36,7 @@ var force = d3.layout.force();
 
 vis = d3.select("#vis").append("svg").attr("width", w).attr("height", h);
 
-d3.json("marvel.json", function(json) {
+d3.json("outletgraph.json", function(json) {
 
   root = json;
   root.fixed = true;
@@ -84,7 +83,6 @@ function update() {
 
   // Exit any old paths.
   path.exit().remove();
-
 
 
   // Update the nodes…
@@ -177,7 +175,6 @@ function tick() {
   }
 }
 
-
 /**
  * Gives the coordinates of the border for keeping the nodes inside a frame
  * http://bl.ocks.org/mbostock/1129492
@@ -203,7 +200,6 @@ function click(d) {
   update();
 }
 
-
 /**
  * Returns a list of all nodes under the root.
  */
@@ -222,7 +218,6 @@ function flatten(root) {
   recurse(root);
   return nodes;
 }
-
 
 </script>
 

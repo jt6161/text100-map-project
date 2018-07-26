@@ -3,7 +3,8 @@ body {
   font-family: "Source Code Pro", Consolas, monaco, monospace;
   line-height: 160%;
   font-size: 16px;
-  margin: 0;
+  margin: auto;
+  background-color: #bbd5e7;
 }
 
 path.link {
