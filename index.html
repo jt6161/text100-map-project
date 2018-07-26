@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Marvel Characters | Force layout with images</title>
+    <title>Media Relations | Force layout with images</title>
     <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
   <link rel="stylesheet" href="style.css">
@@ -11,12 +11,14 @@
 
 <body>
     <header>
-      <h1>Marvel Characters</h1>
-      <h2>Click to view their identity</h2>
+      <h1>Media Outlets</h1>
+      <h2>Click to View</h2>
 
     </header>
+
     <!-- container for force layout visualisation  -->
     <section id="vis"></section>
+
 <script>
 
 // some colour variables
@@ -53,7 +55,6 @@ d3.json("marvel.json", function(json) {
 
      update();
 });
-
 
 
 function update() {

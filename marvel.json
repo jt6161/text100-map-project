@@ -10,60 +10,12 @@
       "hero": "Jane Pro",
       "img":  "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37769210_10156530105172236_8768332848982654976_n.jpg?_nc_cat=0&oh=3ef76de4bbd87adc33a6140a180656d3&oe=5BCA050D",
       "size": 40000
-    },
-    {
-      "hero": "HULK",
-      "name": "Robert Bruce Banner",
-      "link": "http://marvel.com/characters/25/hulk",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_hulk.png",
-      "size": 40000
-    },
-    {
-      "hero": "Black Widow",
-      "name": "Natalia 'Natasha' Alianovna Romanova",
-      "link": "http://marvel.com/characters/6/black_widow",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_blackwidow.png",
-      "size": 40000
-    },
-    {
-      "hero": "Daredevil",
-      "name": "Matthew Michael Murdock",
-      "link": "http://marvel.com/characters/11/daredevil",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_daredevil.png",
-      "size": 40000
-    },
-    {
-      "hero": "Wolverine",
-      "name": "James Howlett",
-      "link": "http://marvel.com/characters/66/wolverine",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_wolverine.png",
-      "size": 40000
-    },
-    {
-      "hero": "Captain America",
-      "name": "Steven Rogers",
-      "link": "http://marvel.com/characters/8/captain_america",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_captainamerica.png",
-      "size": 40000
-    },
-    {
-      "hero": "Iron Man",
-      "name": "Anthony Edward 'Tony' Stark",
-      "link": "http://marvel.com/characters/29/iron_man",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_ironman.png",
-      "size": 40000
-    },
-    {
-      "hero": "THOR",
-      "name": "Thor Odinson",
-      "link": "http://marvel.com/characters/60/thor",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/top_thor.png",
-      "size": 40000
     }
   ]
   },
   {
-   "name": "Villains",
+   "name": "Joan Maker",
+   "img": "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37789539_10156530104882236_802487022617886720_n.jpg?_nc_cat=0&oh=12a2120db93d7f9e4deb06803a4ee0e7&oe=5C09AAB2",
    "children": [
     {
       "hero": "Dr. Doom",
@@ -73,51 +25,22 @@
       "size": 40000
     },
     {
+      "hero": "Jane Pro",
+      "img":  "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37769210_10156530105172236_8768332848982654976_n.jpg?_nc_cat=0&oh=3ef76de4bbd87adc33a6140a180656d3&oe=5BCA050D",
+      "size": 40000
+    },
+    {
       "hero": "Mystique",
       "name": "Unrevealed",
       "link": "http://marvel.com/characters/1552/mystique",
       "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/mystique.png",
       "size": 40000
-    },
-    {
-      "hero": "Red Skull",
-      "name": "Johann Shmidt",
-      "link": "http://marvel.com/characters/1901/red_skull",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/redskull.png",
-      "size": 40000
-    },
-    {
-      "hero": "Ronan",
-      "name": "Ronan",
-      "link": "http://marvel.com/characters/49/ronan",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/ronan.png",
-      "size": 40000
-    },
-    {
-      "hero": "Magneto",
-      "name": "Max Eisenhardt",
-      "link": "http://marvel.com/characters/35/magneto",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/magneto.png",
-      "size": 40000
-    },
-    {
-      "hero": "Thanos",
-      "name": "Thanos",
-      "link": "http://marvel.com/characters/58/thanos",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/thanos.png",
-      "size": 40000
-    },
-    {
-      "hero": "Black Cat",
-      "name": "Felicia Hardy",
-      "link": "http://marvel.com/characters/271/black_cat",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/blackcat.png",
-      "size": 40000
     }
    ]
   },
   {
-   "name": "Teams",
+   "name": "Jack Reader",
+   "img": "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37811345_10156530104927236_710407463572078592_n.jpg?_nc_cat=0&oh=47a79aa49a7affdfb5926532dc6956eb&oe=5BDE54F8",
    "children": [
     {
       "hero": "Avengers",
@@ -127,38 +50,15 @@
       "size": 40000
     },
     {
+      "hero": "Jane Pro",
+      "img":  "https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/37769210_10156530105172236_8768332848982654976_n.jpg?_nc_cat=0&oh=3ef76de4bbd87adc33a6140a180656d3&oe=5BCA050D",
+      "size": 40000
+    },
+    {
       "hero": "Guardians of the Galaxy",
       "name": "",
       "link": "http://marvel.com/characters/70/guardians_of_the_galaxy",
       "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/gofgalaxy.png",
-      "size": 40000
-    },
-    {
-      "hero": "Defenders",
-      "name": "",
-      "link": "http://marvel.com/characters/534/defenders",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/defenders.png",
-      "size": 40000
-    },
-    {
-      "hero": "X-Men",
-      "name": "",
-      "link": "http://marvel.com/characters/71/x-men",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/xmen.png",
-      "size": 40000
-    },
-    {
-      "hero": "Fantastic Four",
-      "name": "",
-      "link": "http://marvel.com/characters/69/fantastic_four",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/fantasticfour.png",
-      "size": 40000
-    },
-    {
-      "hero": "Inhumans",
-      "name": "",
-      "link": "http://marvel.com/characters/1040/inhumans",
-      "img":  "http://marvel-force-chart.surge.sh/marvel_force_chart_img/inhumans.png",
       "size": 40000
     }
    ]
